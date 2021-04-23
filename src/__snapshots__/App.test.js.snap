@@ -1,0 +1,248 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root MuiBox-root-5"
+  >
+    <div
+      class="makeStyles-root-6"
+    >
+      <header
+        class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary MuiPaper-elevation4"
+      >
+        <div
+          class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+        >
+          <h6
+            class="MuiTypography-root makeStyles-title-8 MuiTypography-h6"
+          >
+            INVESTLY
+          </h6>
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-colorInherit"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              ...mortgages simplified
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </header>
+    </div>
+    <div
+      class="MuiContainer-root makeStyles-root-1 MuiContainer-maxWidthSm"
+    >
+      <div
+        class="MuiPaper-root makeStyles-paper-4 MuiPaper-elevation2 MuiPaper-rounded"
+      >
+        <div
+          class="MuiBox-root MuiBox-root-9"
+        >
+          <h1>
+            Current Loans
+          </h1>
+          <div
+            class="MuiBox-root MuiBox-root-10"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-11"
+            >
+              <div
+                class="MuiPaper-root MuiCard-root makeStyles-card-2 MuiPaper-elevation1 MuiPaper-rounded"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+                >
+                  <div
+                    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-9"
+                  >
+                    <h3>
+                      Voluptate et sed tempora qui quisquam.
+                    </h3>
+                  </div>
+                  <div
+                    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 MuiGrid-grid-sm-9 MuiGrid-grid-md-9"
+                  >
+                    <p>
+                      <strong>
+                        Tranche:
+                      </strong>
+                       A
+                    </p>
+                    <p>
+                      <strong>
+                        Amount:
+                      </strong>
+                       £85,754
+                    </p>
+                    <p>
+                      <strong>
+                        Available:
+                      </strong>
+                       £11,959
+                    </p>
+                  </div>
+                  <div
+                    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5 MuiGrid-grid-sm-3 MuiGrid-grid-md-3"
+                  >
+                    <button
+                      class="MuiButtonBase-root"
+                      data-testid="invest"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-12 makeStyles-button-3"
+                      >
+                        Invest
+                      </div>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-13"
+            >
+              <div
+                class="MuiPaper-root MuiCard-root makeStyles-card-2 MuiPaper-elevation1 MuiPaper-rounded"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+                >
+                  <div
+                    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-9"
+                  >
+                    <h3>
+                      Consectetur ipsam qui magnam minus dolore ut fugit.
+                    </h3>
+                  </div>
+                  <div
+                    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 MuiGrid-grid-sm-9 MuiGrid-grid-md-9"
+                  >
+                    <p>
+                      <strong>
+                        Tranche:
+                      </strong>
+                       B
+                    </p>
+                    <p>
+                      <strong>
+                        Amount:
+                      </strong>
+                       £85,754
+                    </p>
+                    <p>
+                      <strong>
+                        Available:
+                      </strong>
+                       £31,405
+                    </p>
+                  </div>
+                  <div
+                    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5 MuiGrid-grid-sm-3 MuiGrid-grid-md-3"
+                  >
+                    <button
+                      class="MuiButtonBase-root"
+                      data-testid="invest"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-14 makeStyles-button-3"
+                      >
+                        Invest
+                      </div>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiBox-root MuiBox-root-15"
+            >
+              <div
+                class="MuiPaper-root MuiCard-root makeStyles-card-2 MuiPaper-elevation1 MuiPaper-rounded"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"
+                >
+                  <div
+                    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-9"
+                  >
+                    <h3>
+                      Dolores repudiandae ut voluptas unde laborum quaerat et sapiente.
+                    </h3>
+                  </div>
+                  <div
+                    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7 MuiGrid-grid-sm-9 MuiGrid-grid-md-9"
+                  >
+                    <p>
+                      <strong>
+                        Tranche:
+                      </strong>
+                       C
+                    </p>
+                    <p>
+                      <strong>
+                        Amount:
+                      </strong>
+                       £85,754
+                    </p>
+                    <p>
+                      <strong>
+                        Available:
+                      </strong>
+                       £12,359
+                    </p>
+                  </div>
+                  <div
+                    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5 MuiGrid-grid-sm-3 MuiGrid-grid-md-3"
+                  >
+                    <button
+                      class="MuiButtonBase-root"
+                      data-testid="invest"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-16 makeStyles-button-3"
+                      >
+                        Invest
+                      </div>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <p
+            class="MuiBox-root MuiBox-root-17"
+          >
+            Total amount available for investments:
+            <strong>
+               £55,723
+            </strong>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

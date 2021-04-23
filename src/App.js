@@ -159,6 +159,7 @@ export default function App() {
                           <ButtonBase
                             onClick={() => handleClickOpen(loan)}
                             className={classes.btnBase}
+                            data-testid="invest"
                           >
                             <Box className={classes.button}>Invest</Box>
                           </ButtonBase>
